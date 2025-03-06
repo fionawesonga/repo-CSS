@@ -1,16 +1,11 @@
-.container{
+.container {
     border: dotted 3px rgb(83, 11, 83);
     padding: 20px;
-
-
-
-    
 }
-.inner-container{
+
+.inner-container {
     border: solid 2px orange;
     padding: 20px;
     margin: 5%;
     font-style: italic;
-    
 }
-  
